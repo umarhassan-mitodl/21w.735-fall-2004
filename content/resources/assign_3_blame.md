@@ -4,8 +4,6 @@ description: Guidelines for Assignment 3, 'The Essay of Blame'.
 file: /courses/21w-735-writing-and-reading-the-essay-fall-2004/97f68cf1921862f50281cd886da7ce01_assign_3_blame.pdf
 file_size: 11313
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

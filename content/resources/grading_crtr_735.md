@@ -4,8 +4,6 @@ description: Grading criteria and guidelines for the term project.
 file: /courses/21w-735-writing-and-reading-the-essay-fall-2004/1c1c0f7358a886d6def042f759c37184_grading_crtr_735.pdf
 file_size: 28136
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

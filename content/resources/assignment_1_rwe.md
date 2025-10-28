@@ -4,8 +4,6 @@ description: Guidelines for Assignment 1, 'The Essay on the Essay'.
 file: /courses/21w-735-writing-and-reading-the-essay-fall-2004/b77d38268f384c6d36185879f405e385_assignment_1_rwe.pdf
 file_size: 48502
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: 'Guidelines for Assignment 5, the final essay assignment for the co
 file: /courses/21w-735-writing-and-reading-the-essay-fall-2004/c45c3821c6969bdc588edb37ecfc9e2f_essay_5.pdf
 file_size: 50556
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
